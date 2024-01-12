@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "77f2bd6be6816413",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ab12ff4b6483702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd98516b6ae040f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bericht/Praxissemesterbericht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cfd4e6d2dd9ac88",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f45238b41dac286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f91bb006545523",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "50a6568fb53f7f7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0b77fe7cfc3c5d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "d4f3f8a5591e0ed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "039b2f7f38eefb43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df0ecc606b5e2499",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bericht/Praxissemesterbericht.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d761bdadb5603881",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bericht/Praxissemesterbericht.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bccf013d573f6a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb6b471358553c6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bericht/Praxissemesterbericht.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd98516b6ae040f7",
+  "lastOpenFiles": [
+    "Nützliche Links.md",
+    "Bericht/Praxissemesterbericht.md",
+    "Filter Modul/Übersicht Filter Modul.md",
+    "Filter Modul/DummyFilter.md",
+    "Hygienebleche Sortierprogramm/Übersicht To-Do.md",
+    "Marker/Klassen/Koordinaten.md",
+    "Marker/Klassen/Texteck.md",
+    "Marker/Klassen/Rechteck.md",
+    "Marker/Klassen/VersandtoolController/VersandtoolController.canvas",
+    "Marker/Klassen/VersandtoolController/global.md",
+    "Marker/Versandschilder Generator.canvas",
+    "Marker/Inhalt.md",
+    "Bericht/Untitled.md",
+    "Filter Modul",
+    "Useful GPT prompts.md",
+    "Git-Server/Git-Server Optionen.md",
+    "Git-Server/Git auf dem Server.md",
+    "Git-Server/Git-Protokolle.md",
+    "Git-Server/Git.md",
+    "Git-Server/Git Grundlagen.md",
+    "Git-Server/imgs/Pasted image 20231215102904.png",
+    "Git-Server/imgs/Pasted image 20231215102813.png",
+    "Git-Server/imgs/Pasted image 20231215101753.png",
+    "Git",
+    "Marker/Klassen/VersandtoolController/Untitled.md",
+    "Marker/Klassen/VersandtoolController/Methoden/MethodenListe.md",
+    "Marker/Klassen/VersandtoolController/Methoden/DrawRectangle.md",
+    "Marker/Klassen/VersandtoolController/Methoden/paneDragBoxReleased.md",
+    "Marker/Klassen/VersandtoolController/Methoden/Initialize.md",
+    "Marker/Klassen/VersandtoolController/Methoden/reset.md",
+    "Marker/Klassen/VersandtoolController/Methoden/saveCanvas.md",
+    "Git-Server/imgs/Pasted image 20231214084542.png",
+    "Git-Server/imgs/Pasted image 20231214084536.png",
+    "Git-Server/imgs/Pasted image 20231214084530.png",
+    "Git-Server/imgs",
+    "Git-Server",
+    "CMS_Generator/Notes.md",
+    "Hygienebleche Sortierprogramm/Feedback.md",
+    "CMS_Generator",
+    "Hygienebleche Sortierprogramm/Untitled.canvas",
+    "Bericht",
+    "Hygienebleche Sortierprogramm",
+    "imgs/Pasted image 20231107141226.png",
+    "imgs",
+    "Marker/Untitled.canvas",
+    "Plugin/PluginDokumentation/imgs/Pasted image 20231031151757.png",
+    "Plugin/PluginDokumentation/imgs/Pasted image 20231031151722.png",
+    "Plugin/PluginDokumentation/imgs/Pasted image 20231031141844.png",
+    "Plugin/PluginDokumentation/Untitled",
+    "Plugin/PluginDokumentation/imgs",
+    "Plugin/Plugin Ablaufdiagram.canvas",
+    "Plugin/JsonWriter Ablauf.canvas"
+  ]
+}

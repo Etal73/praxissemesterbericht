@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Hygienebleche Sortierprogramm",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d718a1af-4f12-4258-b33a-da48510cd9e3",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "columns": {
+              "No status": {
+                "weight": 0
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "36c3a748-d125-442c-9d21-797c631561ab",
+          "name": "Tasks",
+          "type": "board"
+        }
+      ],
+      "id": "4b737cb2-62e1-4789-8e85-a7562fad135e",
+      "name": "Salvagnini Hygiene Sortierer"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

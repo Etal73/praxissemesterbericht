@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"37583de1ca61ee07","type":"file","file":"Marker/Klassen/Rechteck.md","x":-320,"y":-320,"width":560,"height":820,"color":"5"},
+		{"id":"731e01899d56bd7b","type":"file","file":"Marker/Klassen/Koordinaten.md","x":280,"y":-320,"width":400,"height":600,"color":"5"},
+		{"id":"3d5887d9b6edeecc","type":"file","file":"Marker/Klassen/VersandtoolController/VersandtoolController.canvas","x":780,"y":-280,"width":1740,"height":1080,"color":"5"}
+	],
+	"edges":[]
+}

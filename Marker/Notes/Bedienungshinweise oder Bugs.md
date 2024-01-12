@@ -1,0 +1,3 @@
+- Inhalt von Kästchen kann nur bei der aktuellen Auswahl verändert werden
+- Kästchen können nur von oben-links nach unten-rechts gezogen werden
+- 

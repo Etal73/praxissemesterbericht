@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"660070b4fdc268dd","type":"text","text":"Makro wird hinzugefügt","x":-1430,"y":-537,"width":250,"height":60,"color":"4"},
+		{"id":"24297c9c49675cc2","type":"text","text":"Existiert event.getSettings()?","x":-1060,"y":-537,"width":250,"height":60},
+		{"id":"98d9d443b0b5ebf2","type":"text","text":"EXIT","x":-680,"y":-537,"width":250,"height":60},
+		{"id":"57058f8984efcf3b","type":"text","text":"- füge Makro der buttonMap hinzu\n- setze StdBild\n- JsonWriter.addJsonEintrag()","x":-1060,"y":-400,"width":250,"height":160},
+		{"id":"ee49f15e683146f3","type":"text","text":"Makro wird ausgeführt/\nButton wird betätigt","x":-1430,"y":-180,"width":250,"height":60,"color":"4"},
+		{"id":"730b76e0498e06e0","type":"text","text":"tastaturbefehlAusführen()","x":-1060,"y":-180,"width":250,"height":60},
+		{"id":"f9adee5f85d42f78","type":"text","text":"onSentToPlugin wird aufgerufen","x":-1060,"y":35,"width":250,"height":60},
+		{"id":"42ea35cb28e659ca","type":"text","text":"Makro wird dem Button in der buttonMakroMap zugewiesen","x":-680,"y":20,"width":250,"height":90},
+		{"id":"ddf23142eea19fdc","type":"text","text":"Button wird im PI initialisiert","x":-1430,"y":35,"width":250,"height":60,"color":"4"},
+		{"id":"b5de19642d8b0d61","type":"text","text":"api.setSettings()","x":-680,"y":180,"width":250,"height":60},
+		{"id":"714941b82388c7d1","type":"text","text":"While-Schleife","x":-1430,"y":320,"width":250,"height":60,"color":"4"},
+		{"id":"c150b30c252f476e","type":"text","text":"iteriereJson","x":-1060,"y":320,"width":250,"height":60},
+		{"id":"4c48a587b7f22552","x":-680,"y":320,"width":250,"height":60,"type":"text","text":"\"Veränderung\" == true"},
+		{"id":"8e51355afbb24c80","x":-300,"y":320,"width":250,"height":60,"type":"text","text":"tu nichts"},
+		{"id":"ae5bf61fc17e26a7","x":-680,"y":480,"width":250,"height":125,"type":"text","text":"- setImage()\n- setTitle()\n- \"Veränderung\" = false"}
+	],
+	"edges":[
+		{"id":"1b887f626672f9ff","fromNode":"660070b4fdc268dd","fromSide":"right","toNode":"24297c9c49675cc2","toSide":"left"},
+		{"id":"3406352c30b8c26f","fromNode":"24297c9c49675cc2","fromSide":"right","toNode":"98d9d443b0b5ebf2","toSide":"left","label":"nein"},
+		{"id":"679fc69b68b63427","fromNode":"24297c9c49675cc2","fromSide":"bottom","toNode":"57058f8984efcf3b","toSide":"top","label":"ja"},
+		{"id":"83fa8090d42dce40","fromNode":"ee49f15e683146f3","fromSide":"right","toNode":"730b76e0498e06e0","toSide":"left"},
+		{"id":"3733249abc438602","fromNode":"ddf23142eea19fdc","fromSide":"right","toNode":"f9adee5f85d42f78","toSide":"left"},
+		{"id":"d7a40208cd1369e1","fromNode":"f9adee5f85d42f78","fromSide":"right","toNode":"42ea35cb28e659ca","toSide":"left"},
+		{"id":"1eae7be303a44399","fromNode":"42ea35cb28e659ca","fromSide":"bottom","toNode":"b5de19642d8b0d61","toSide":"top"},
+		{"id":"f37783187df26151","fromNode":"714941b82388c7d1","fromSide":"right","toNode":"c150b30c252f476e","toSide":"left"},
+		{"id":"a698646a1c70fd92","fromNode":"4c48a587b7f22552","fromSide":"right","toNode":"8e51355afbb24c80","toSide":"left","label":"nein"},
+		{"id":"e75230bdfbf25629","fromNode":"4c48a587b7f22552","fromSide":"bottom","toNode":"ae5bf61fc17e26a7","toSide":"top","label":"ja"},
+		{"id":"648e44ffa75775e1","fromNode":"c150b30c252f476e","fromSide":"right","toNode":"4c48a587b7f22552","toSide":"left"}
+	]
+}
