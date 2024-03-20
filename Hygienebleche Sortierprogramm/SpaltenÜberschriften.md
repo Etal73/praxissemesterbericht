@@ -1,1 +1,0 @@
-KommNr/PosNr, Lfd. Nr. Bezeichnung, Breite, Höhe, IM, AM, ISO, Trennung, Programmbez.I, Programmbez.A, Anzahl, verbleibend
